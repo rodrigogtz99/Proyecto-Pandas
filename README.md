@@ -16,4 +16,6 @@ Notice: For this purpoose of this project, I was not allowed to eliminate column
 7. Finally, I applied the 'find_season' function to the DataFrame to create a new column named 'season'. For each row, the function was called with the 'Month' and 'hemisphere' values, and the corresponding season was returned and assigned to the 'season' column
 8. With these steps completed, the DataFrame 'sharks' now contains two new columns, 'hemisphere' and 'season', which represent the hemisphere of the shark attack and the corresponding season, respectively. These columns can be analyzed to identify patterns and trends in shark attacks based on different seasons and hemispheres.
 
+<img width="671" alt="shark_attacks_dis" src="https://github.com/Ironhack-Data-Madrid-Julio-2023/2.4-lab_data_cleaning/assets/139127453/7b00ebbd-67d2-4156-aae1-e93c61e83d94">
+
 
